@@ -1,0 +1,5 @@
+Ini adalah pesan narasi yang biasanya ditulis untuk mengkonfirmasi informasi gempa.
+
+Tidak ada teks narasi dari BMKG untuk eventID 20180712085018.
+
+Teks ini hanya ditulis agar fungsi narasi di go-wrsbmkg bekerja.
