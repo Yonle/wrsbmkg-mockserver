@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "bmg2024thmd",
+        "time": "2024-10-01 11:16:08.874267",
+        "mag": "4.447314",
+        "place": "Seram, Indonesia",
+        "fase": "40",
+        "status": "M",
+        "depth": "10.000000"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "129.632828",
+          "-2.878999",
+          1
+        ]
+      }
+    }
+  ]
+}

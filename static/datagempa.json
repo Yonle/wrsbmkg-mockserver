@@ -1,0 +1,360 @@
+{
+  "identifier": "TEST-1",
+  "sender": "inatews@bmkg.go.id",
+  "sent": "2023-04-25T05:17:37WIB",
+  "status": "Actual",
+  "msgType": "Update",
+  "scope": "Public",
+  "code": "profile:BMKG-Versi:1",
+  "info": {
+    "event": "Gempabumi",
+    "date": "11-07-18",
+    "time": "11:04:25 WIB",
+    "point": {
+      "coordinates": "112.83,-10.48"
+    },
+    "latitude": "10.48 LS",
+    "longitude": "112.83 BT",
+    "magnitude": "7.8",
+    "depth": "10 Km",
+    "area": "261 km Tenggara KEPANJEN-MALANG-JATIM (Hanya TEST Event)",
+    "eventid": "20180712085018",
+    "potential": "Potensi TSUNAMI untuk diteruskan pada masyarakat",
+    "subject": "Warning Tsunami PD-1",
+    "headline": "Peringatan Dini Tsunami untuk wilayah: BALI, BANTEN, DIY, JABAR, JATENG, JATIM, NTB, NTT, Gempa Mag:7.8, 11-Jul-18 11:04:25 WIB, Lok:10.48 LS, 112.83 BT (261 km Tenggara KEPANJEN-MALANG-JATIM), Kedlmn:10 Km ::BMKG",
+    "description": "Peringatan Dini Tsunami, telah terjadi gempabumi dengan kekuatan:7.8, lokasi: 261 km Tenggara KEPANJEN-MALANG-JATIM, waktu:11-Jul-18 11:04:25 WIB,  berpotensi Tsunami di wilayah: BALI, BANTEN, DIY, JABAR, JATENG, JATIM, NTB, NTT",
+    "instruction": "Ikuti arahan peringatan dini TSUNAMI dari BPBD, BNPB dan BMKG",
+    "shakemap": "20180712085018.mmi.jpg",
+    "wzmap": "20180712085018.wz.png",
+    "ttmap": "20180712085018.tt.png",
+    "sshmap": "20180712085018.ssh.png",
+    "instruction1": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Awas\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi menyeluruh",
+    "instruction2": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Siaga\" diharap memperhatikan dan segera mengarahkan masyarakat untuk melakukan evakuasi",
+    "instruction3": "Pemerintah Propinsi/Kab/Kota yang berada pada status \"Waspada\" diharap memperhatikan dan segera mengarahkan masyarakat untuk menjauhi pantai dan tepian sungai",
+    "wzarea": [
+      {
+        "province": "JATIM",
+        "district": "JEMBER PULAU NUSABARUNG",
+        "level": "AWAS",
+        "date": "11-07-2018",
+        "time": "11:16:55 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "JEMBER",
+        "level": "AWAS",
+        "date": "11-07-2018",
+        "time": "11:18:59 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "BANYUWANGI BAGIAN SELATAN",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:18:10 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "MALANG",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:18:10 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "BLITAR",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:22:05 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "BADUNG PANTAI-KUTA",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:22:25 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "TULUNGAGUNG",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:23:44 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "TRENGGALEK",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:24:14 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "LUMAJANG",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:24:55 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "KLUNGKUNG PULAU NUSAPENIDA",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:27:40 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "LOMBOK-BARAT BAGIAN SELATAN",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:28:29 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "JEMBRANA",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:29:44 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "PACITAN",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:30:55 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "LOMBOK-TENGAH",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:31:20 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "DENPASAR PANTAI-SANUR",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:31:59 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "KLUNGKUNG",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:32:59 WIB"
+      },
+      {
+        "province": "JATENG",
+        "district": "WONOGIRI",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:33:59 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "TABANAN",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:34:10 WIB"
+      },
+      {
+        "province": "DIY",
+        "district": "GUNUNG-KIDUL",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:36:35 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "KARANG-ASEM BAGIAN SELATAN",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:37:25 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "KOTA-MATARAM",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:42:25 WIB"
+      },
+      {
+        "province": "DIY",
+        "district": "BANTUL",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:42:35 WIB"
+      },
+      {
+        "province": "NTT",
+        "district": "SUMBA BAGIAN BARAT",
+        "level": "SIAGA",
+        "date": "11-07-2018",
+        "time": "11:56:35 WIB"
+      },
+      {
+        "province": "JATIM",
+        "district": "BANYUWANGI BAGIAN TIMUR",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:22:59 WIB"
+      },
+      {
+        "province": "BALI",
+        "district": "GIANYAR",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:33:44 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "SUMBAWA BAGIAN BARAT",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:33:59 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "LOMBOK-TIMUR BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:34:10 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "SUMBAWA BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:38:20 WIB"
+      },
+      {
+        "province": "DIY",
+        "district": "KULON-PROGO",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:43:59 WIB"
+      },
+      {
+        "province": "JATENG",
+        "district": "PURWOREJO",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:48:25 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "DOMPU BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:54:05 WIB"
+      },
+      {
+        "province": "JATENG",
+        "district": "KEBUMEN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:55:14 WIB"
+      },
+      {
+        "province": "NTB",
+        "district": "KOTA-BIMA BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:56:25 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "TASIKMALAYA",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:57:35 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "GARUT",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:58:14 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "CIAMIS",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "11:58:20 WIB"
+      },
+      {
+        "province": "NTT",
+        "district": "SUMBA BAGIAN TIMUR",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:01:14 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "CIANJUR SINDANGBARANG",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:01:25 WIB"
+      },
+      {
+        "province": "JATENG",
+        "district": "CILACAP",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:03:20 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "SUKABUMI UJUNG-GENTENG",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:05:44 WIB"
+      },
+      {
+        "province": "NTT",
+        "district": "KEPULAUAN MANGGARAI-BARAT",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:07:50 WIB"
+      },
+      {
+        "province": "JABAR",
+        "district": "SUKABUMI PELABUHAN-RATU",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:12:29 WIB"
+      },
+      {
+        "province": "BANTEN",
+        "district": "LEBAK",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:13:35 WIB"
+      },
+      {
+        "province": "BANTEN",
+        "district": "PANDEGLANG BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:13:50 WIB"
+      },
+      {
+        "province": "NTT",
+        "district": "MANGGARAI-BARAT BAGIAN SELATAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:15:35 WIB"
+      },
+      {
+        "province": "BANTEN",
+        "district": "PANDEGLANG PULAU PANAITAN",
+        "level": "WASPADA",
+        "date": "11-07-2018",
+        "time": "12:19:14 WIB"
+      }
+    ],
+    "timesent": "12/07/2018 08:50:18WIB"
+  }
+}
